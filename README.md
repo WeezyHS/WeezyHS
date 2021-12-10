@@ -1,0 +1,2 @@
+- 👀 Tenho interesse em estudar programação.
+- 🌱 Estudo Python, SQL e Java.
