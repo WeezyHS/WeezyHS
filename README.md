@@ -1,3 +1,2 @@
-- Faço faculdade, estou cursando Engenharia de Software!
 - Tenho interesse em estudar programação...
 - Estudo Python, SQL e Java!
